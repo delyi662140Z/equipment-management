@@ -1,0 +1,47 @@
+# 操作系统生成文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Microsoft Office 临时文件
+~$*
+*.tmp
+*.temp
+
+# CAD 与工程文件（仅保留索引，不提交二进制大文件）
+*.dwg
+*.dxf
+*.sldprt
+*.sldasm
+*.slddrw
+*.step
+*.stp
+*.iges
+*.igs
+
+# 压缩与备份文件
+*.zip
+*.rar
+*.7z
+*.bak
+*.backup
+
+# 日志与凭据
+*.log
+.env
+*.token
+*.pem
+*.key
+
+# Python（如后续加入工具脚本）
+__pycache__/
+*.py[cod]
+.venv/
+venv/
